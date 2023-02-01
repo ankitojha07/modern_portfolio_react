@@ -14,13 +14,13 @@
 }
 
 .stick_follow_icon svg {
-    width: 1.3em;
-    height: 1.3em;
+    width: 2em;
+    height: 2em;
     fill: var(--text-color)
 }
 
 .stick_follow_icon p {
-    top: 70px;
+    top: 90px;
     left: -24px;
     width: 68px;
     height: 20px;

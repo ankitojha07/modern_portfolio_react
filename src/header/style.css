@@ -34,6 +34,9 @@
     font-weight: bold;
     z-index: 1000;
 }
+.navbar-brand{
+    font-size: 3rem;
+}
 
 .nav_ac:hover {
     color: var(--text-color-2);
