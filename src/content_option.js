@@ -132,8 +132,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "ankitojha1409@gmail.com",
+    YOUR_FONE: "+91 8700091952",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -143,10 +143,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/ankitojha07",
+    youtube: "https://youtube.com/@codeforcoffeee",
+    linkedin: "https://linkedin.com/in/ankitojha07",
+    twitter: "https://twitter.com/ankitojha_07",
 };
 export {
     meta,

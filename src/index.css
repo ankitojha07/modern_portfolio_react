@@ -21,6 +21,7 @@
 html,
 body {
     height: 100%;
+    cursor: auto !important;
 }
 
 body {
@@ -74,7 +75,7 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
-.cursor__dot div {
+/* .cursor__dot div {
     z-index: 999999 !important;
 }
 
@@ -85,7 +86,7 @@ code {
 .cursor__dot div:first-child {
     filter: invert(1);
     background-color: var(--overlay-color) !important;
-}
+} */
 
 .color_pr {
     color: var(--primary-color) !important;
