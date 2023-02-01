@@ -14,7 +14,8 @@ const introdata = {
   },
   description:
     "Currently pursuing a Bachelor's Degree in Information Technology from Lovely Professional University (LPU) - Punjab, India.",
-  your_img_url:"https://pbs.twimg.com/media/FfFUILSVsAAnPZn?format=jpg&name=large"
+  your_img_url:"",
+  // your_img_url:"https://pbs.twimg.com/media/FfFUILSVsAAnPZn?format=jpg&name=large"
 };
 
 const dataabout = {
