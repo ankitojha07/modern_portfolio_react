@@ -9,8 +9,8 @@ const introdata = {
   title: "I’m Ankit Ojha",
   animated: {
     first: "I love coding",
-    second: "I code cool websites",
-    third: "I develop mobile apps",
+    second: "I code cool websites and apps",
+    third: "I love to play with linux terminal",
   },
   description:
     "Currently pursuing a Bachelor's Degree in Information Technology from Lovely Professional University (LPU) - Punjab, India.",
