@@ -41,6 +41,7 @@ section {
     .intro_sec {
         display: block;
         height: auto!important;
+        margin-top: 160px;
     }
 }
 
