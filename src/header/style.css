@@ -33,6 +33,7 @@
     height: 50px;
     font-weight: bold;
     z-index: 1000;
+    
 }
 .navbar-brand{
     font-size: 3rem;
@@ -171,6 +172,9 @@
     .the_menu {
         padding-top: 10vh;
         padding-bottom: 10vh;
+    }
+    .navb{
+        background: (--primary-color);
     }
 }
 
