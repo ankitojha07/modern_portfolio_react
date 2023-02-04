@@ -1,3 +1,6 @@
+import myImg from './img/ankit-ojha.jpg'
+
+
 const logotext = "Ankit Ojha";
 const meta = {
   title: "Ankit Ojha",
@@ -14,7 +17,7 @@ const introdata = {
   },
   description:
     "Currently pursuing a Bachelor's Degree in Information Technology from Lovely Professional University (LPU) - Punjab, India.",
-  your_img_url:"https://pbs.twimg.com/media/FfFUILSVsAAnPZn?format=jpg&name=large",
+  your_img_url:{myImg},
   // your_img_url:"https://pbs.twimg.com/media/FfFUILSVsAAnPZn?format=jpg&name=large"
 };
 
